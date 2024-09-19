@@ -37,13 +37,10 @@ I’m a Full-Stack Developer specializing in building scalable and dynamic web a
 ### **DevOps & Tools:**
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/CI/CD-FF6C37?style=for-the-badge&logo=ci&logoColor=white" alt="CI/CD" />
 </p>
 
-### **Others:**
+### **Tools:**
 <p>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" />
   <img src="https://img.shields.io/badge/REST%20APIs-0052CC?style=for-the-badge&logo=restful&logoColor=white" alt="REST APIs" />
